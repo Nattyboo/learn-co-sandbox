@@ -1,3 +1,4 @@
+git clone git@github.com:facebook/react.git
 
 Hi! 👋
 
